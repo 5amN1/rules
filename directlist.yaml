@@ -1,13 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,365sb.com,DIRECT
-  - DOMAIN-SUFFIX,365457365.com,DIRECT
-  - DOMAIN-SUFFIX,115.com,DIRECT
-  - DOMAIN-SUFFIX,bochk.com,DIRECT
-  - DOMAIN-KEYWORD,kindle,DIRECT
-  - DOMAIN-KEYWORD,miniworldgame,DIRECT
-  - DOMAIN-SUFFIX,myds.me,DIRECT
-  - DOMAIN-SUFFIX,nn.com,DIRECT
-  - DOMAIN-SUFFIX,nzbs.in,DIRECT
-  - DOMAIN-SUFFIX,omgwtfnzbs.me,DIRECT
-  - DOMAIN-KEYWORD,spartanhost,DIRECT
-  - DOMAIN-KEYWORD,synology,DIRECT
+  - DOMAIN-SUFFIX,365sb.com
+  - DOMAIN-SUFFIX,365457365.com
+  - DOMAIN-SUFFIX,115.com
+  - DOMAIN-SUFFIX,bochk.com
+  - DOMAIN-KEYWORD,kindle
+  - DOMAIN-KEYWORD,miniworldgame
+  - DOMAIN-SUFFIX,myds.me
+  - DOMAIN-SUFFIX,nn.com
+  - DOMAIN-SUFFIX,nzbs.in
+  - DOMAIN-SUFFIX,omgwtfnzbs.me
+  - DOMAIN-KEYWORD,spartanhost
+  - DOMAIN-KEYWORD,synology
