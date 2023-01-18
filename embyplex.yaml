@@ -1,0 +1,5 @@
+payload:
+  - DOMAIN-KEYWORD,emby
+  - DST-PORT,8096
+  - DOMAIN-KEYWORD,plex
+  - DST-PORT,32400
