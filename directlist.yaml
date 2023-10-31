@@ -4,6 +4,8 @@ payload:
   - DOMAIN-SUFFIX,365457365.com
   - DOMAIN-SUFFIX,115.com
   - DOMAIN-SUFFIX,bochk.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-KEYWORD,douyin
   - DOMAIN-KEYWORD,kindle
   - DOMAIN-KEYWORD,miniworldgame
   - DOMAIN-SUFFIX,myds.me
@@ -12,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,omgwtfnzbs.me
   - DOMAIN-KEYWORD,spartanhost
   - DOMAIN-KEYWORD,synology
+  - DOMAIN-KEYWORD,weixin
