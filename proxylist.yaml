@@ -1,3 +1,4 @@
 payload:
+  - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,empornium.is
   - DOMAIN-SUFFIX,hdbits.org
