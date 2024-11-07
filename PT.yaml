@@ -51,6 +51,7 @@ payload:
   - DOMAIN-SUFFIX,asgrd.org
   - DOMAIN-SUFFIX,asiancinema.me
   - DOMAIN-SUFFIX,ast4u.me
+  - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,audionews.org
   - DOMAIN-SUFFIX,avgv.cc
   - DOMAIN-SUFFIX,avistaz.to
@@ -231,6 +232,7 @@ payload:
   - DOMAIN-SUFFIX,pretome.info
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,psytorrents.info
+  - DOMAIN-SUFFIX,ptchdbits.co
   - DOMAIN,pt.btschool.club
   - DOMAIN,pt.eastgame.org
   - DOMAIN,pt.hd4fans.org
