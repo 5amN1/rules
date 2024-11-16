@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN,status.123709394.xyz
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,empornium.is
   - DOMAIN-SUFFIX,frostsky.com
