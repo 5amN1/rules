@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,empornium.is
+  - DOMAIN-SUFFIX,frostsky.com
   - DOMAIN-SUFFIX,hdbits.org
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,kidsa-z.com
