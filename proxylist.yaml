@@ -6,5 +6,6 @@ payload:
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,kidsa-z.com
   - DOMAIN-SUFFIX,nodeseek.com
-  - DOMAIN-SUFFIX,roblox.com
+  - DOMAIN-SUFFIX,rbxcdn.com
+  - DOMAIN-KEYWORD,roblox
   - DOMAIN,status.123709394.xyz
