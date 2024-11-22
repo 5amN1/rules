@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,max.com
   - DOMAIN-SUFFIX,discomax.com
+  - DOMAIN-SUFFIX,brightline.tv
+  - DOMAIN-SUFFIX,litix.io
   - DOMAIN,wmff.warnermediacdn.com
   - DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
   - DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
