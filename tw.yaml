@@ -23,6 +23,7 @@ payload:
   - IP-CIDR,203.104.128.0/19,no-resolve
   - IP-CIDR,203.174.66.64/26,no-resolve
   - IP-CIDR,203.174.77.0/24,no-resolve
+  
   - DOMAIN,d17lx9ucc6k9fc.cloudfront.net
   - DOMAIN,d3pgb93pk7bvxj.cloudfront.net
   - DOMAIN,d3vm9lcxb6xcm4.cloudfront.net
@@ -32,16 +33,20 @@ payload:
   - DOMAIN-SUFFIX,line-scdn.net
   - DOMAIN-SUFFIX,linetv.tw
   - PROCESS-NAME,com.linecorp.linetv
+  
   - DOMAIN-KEYWORD,myvideo
   - DOMAIN,kktv-theater.kk.stream
   - DOMAIN,theater-kktv.cdn.hinet.net
   - DOMAIN-SUFFIX,kktv.com.tw
   - DOMAIN-SUFFIX,kktv.me
+  
   - DOMAIN,hls-hichannel.cdn.hinet.net
   - DOMAIN-SUFFIX,hamivideo.hinet.net
   - DOMAIN-SUFFIX,ott.hinet.net
   - DOMAIN-KEYWORD,hamivideo
   - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
+  
   - DOMAIN-SUFFIX,fetnet.net
   - DOMAIN-SUFFIX,friday.tw
+  
   - DOMAIN-KEYWORD,catchplay
