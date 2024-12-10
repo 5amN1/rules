@@ -20,8 +20,10 @@ payload:
   - DOMAIN-SUFFIX,tvmedia.net.au
   - DOMAIN-SUFFIX,videos-f.jwpsrv.com
   - DOMAIN-SUFFIX,youboranqs01.com
+  
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowestatic.com
+  
   - DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com
   - DOMAIN-SUFFIX,d1k2us671qcoau.cloudfront.net
   - DOMAIN-SUFFIX,d2anahhhmp1ffz.cloudfront.net
@@ -33,6 +35,7 @@ payload:
   - PROCESS-NAME,com.viu.pad
   - PROCESS-NAME,com.viu.phone
   - PROCESS-NAME,com.vuclip.viu
+  
   - DOMAIN,mytvsuperlimited.hb.omtrdc.net
   - DOMAIN,mytvsuperlimited.sc.omtrdc.net
   - DOMAIN-SUFFIX,mytvsuper.com
