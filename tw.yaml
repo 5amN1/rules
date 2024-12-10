@@ -34,19 +34,4 @@ payload:
   - DOMAIN-SUFFIX,linetv.tw
   - PROCESS-NAME,com.linecorp.linetv
   
-  - DOMAIN-KEYWORD,myvideo
-  - DOMAIN,kktv-theater.kk.stream
-  - DOMAIN,theater-kktv.cdn.hinet.net
-  - DOMAIN-SUFFIX,kktv.com.tw
-  - DOMAIN-SUFFIX,kktv.me
-  
-  - DOMAIN,hls-hichannel.cdn.hinet.net
-  - DOMAIN-SUFFIX,hamivideo.hinet.net
-  - DOMAIN-SUFFIX,ott.hinet.net
-  - DOMAIN-KEYWORD,hamivideo
-  - DOMAIN-KEYWORD,hamivideo.cdn.hinet.net
-  
-  - DOMAIN-SUFFIX,fetnet.net
-  - DOMAIN-SUFFIX,friday.tw
-  
   - DOMAIN-KEYWORD,catchplay
