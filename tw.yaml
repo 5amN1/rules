@@ -35,3 +35,5 @@ payload:
   - PROCESS-NAME,com.linecorp.linetv
   
   - DOMAIN-KEYWORD,catchplay
+
+  - DOMAIN-KEYWORD,myvideo
