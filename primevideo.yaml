@@ -25,4 +25,5 @@ payload:
   - DOMAIN-SUFFIX,primevideo.tv
   - DOMAIN-SUFFIX,pv-cdn.net
   - DOMAIN-KEYWORD,avoddashs
+  - DOMAIN-KEYWORD,vod-dash-pv
   - PROCESS-NAME,com.amazon.avod.thirdpartyclient
