@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,yahoo.com
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,tvbanywherena.com
+  - DOMAIN-KEYWORD,claude
