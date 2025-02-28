@@ -1,4 +1,7 @@
 payload:
+#netflix
+  - IP-CIDR,203.75.84.26/24,no-resolve
+#line
   - DOMAIN-SUFFIX,lin.ee
   - DOMAIN-SUFFIX,line-apps.com
   - DOMAIN-SUFFIX,line-cdn.net
