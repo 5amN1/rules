@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,wise.com
   - DOMAIN-SUFFIX,tvbanywherena.com
-  - DOMAIN-SUFFIX,grok.com
 # Tubi
   - DOMAIN-SUFFIX,tubitv.com
   - DOMAIN-SUFFIX,tubi.io
