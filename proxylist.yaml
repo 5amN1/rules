@@ -3,6 +3,7 @@ payload:
   - DOMAIN-SUFFIX,quic.nginx.org
   - DOMAIN-SUFFIX,empornium.is
   - DOMAIN-SUFFIX,frostsky.com
+  - DOMAIN-SUFFIX,futunn.com
   - DOMAIN-SUFFIX,hdbits.org
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,kidsa-z.com
