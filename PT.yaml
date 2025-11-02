@@ -233,6 +233,7 @@ payload:
   - DOMAIN-SUFFIX,privatehd.to
   - DOMAIN-SUFFIX,psytorrents.info
   - DOMAIN-SUFFIX,ptchdbits.co
+  - DOMAIN-SUFFIX,pterclub.net
   - DOMAIN,pt.btschool.club
   - DOMAIN,pt.eastgame.org
   - DOMAIN,pt.hd4fans.org
@@ -305,3 +306,4 @@ payload:
   - DOMAIN-SUFFIX,xthor.tk
   - DOMAIN-SUFFIX,xthor.to
   - DOMAIN-SUFFIX,yingk.com
+
