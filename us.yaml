@@ -95,3 +95,10 @@ payload:
   - DOMAIN-SUFFIX,cbsivideo.com
   - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,pplusstatic.com
+  # Library
+  - DOMAIN-SUFFIX,lapl.org
+  - DOMAIN-SUFFIX,hcpl.net
+  - DOMAIN-SUFFIX,nypl.org
+  - DOMAIN-SUFFIX,kcls.org
+  
+
