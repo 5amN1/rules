@@ -1,0 +1,4 @@
+payload:
+#NLB
+  - DOMAIN-SUFFIX,nlb.gov.sg
+  - DOMAIN-SUFFIX,wogaa.sg
