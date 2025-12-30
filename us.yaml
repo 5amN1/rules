@@ -107,7 +107,9 @@ payload:
   - DOMAIN-SUFFIX,nypl.org
   - DOMAIN-SUFFIX,kcls.org
   - DOMAIN-SUFFIX,queenslibrary.org
-  - DOMAIN-SUFFIX,kcls.bibliocommons.com
+  - DOMAIN-SUFFIX,bibliocommons.com
+  - DOMAIN-SUFFIX,libanswers.com
+
 
 
 
