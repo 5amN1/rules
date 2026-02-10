@@ -109,6 +109,10 @@ payload:
   - DOMAIN-SUFFIX,queenslibrary.org
   - DOMAIN-SUFFIX,bibliocommons.com
   - DOMAIN-SUFFIX,libanswers.com
+# AI
+  - DOMAIN-SUFFIX,perplexity.ai
+  - DOMAIN-SUFFIX,sora.com
+
 
 
 
