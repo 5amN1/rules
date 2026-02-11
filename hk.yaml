@@ -1,7 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,nowe.com
   - DOMAIN-SUFFIX,nowestatic.com
-#okx
-  - DOMAIN-SUFFIX,okx.com
 #Library
   - DOMAIN-SUFFIX,hkpl.gov.hk
+
