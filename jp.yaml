@@ -1,7 +1,7 @@
 payload:
 #Binance
   - DOMAIN-SUFFIX,bnappweb.black
-  - DOMAIN-KEYWORD,,bnappweb
+  - DOMAIN-KEYWORD,bnappweb
   - DOMAIN-SUFFIX,bnbstatic.com
   - DOMAIN-SUFFIX,bntrace.com
   - DOMAIN-SUFFIX,binance.me
@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,saas-exchange.com
   - DOMAIN-SUFFIX,appsflyer.com
+
