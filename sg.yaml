@@ -1,4 +1,7 @@
 payload:
+#AmazonPrimeVideo
+  - DOMAIN-SUFFIX,akamaized.net
 #NLB
   - DOMAIN-SUFFIX,nlb.gov.sg
   - DOMAIN-SUFFIX,wogaa.sg
+
