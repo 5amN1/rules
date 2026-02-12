@@ -9,5 +9,7 @@ payload:
   - DOMAIN-SUFFIX,binance.cloud
   - DOMAIN-SUFFIX,saas-exchange.com
   - DOMAIN-SUFFIX,appsflyer.com
+  - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,bblivestream.com
+
 
