@@ -20,6 +20,8 @@ payload:
   - DOMAIN-KEYWORD,catchplay
 #myvideo
   - DOMAIN-KEYWORD,myvideo
+#ELTA TV
+  - DOMAIN-KEYWORD,eltaott
 
 
 
