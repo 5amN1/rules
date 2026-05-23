@@ -2,9 +2,10 @@ payload:
 #NLB
   - DOMAIN-SUFFIX,nlb.gov.sg
   - DOMAIN-SUFFIX,wogaa.sg
-#1xbet
+#bet
   - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-SUFFIX,12bet.com
+  - DOMAIN-SUFFIX,1xlite-11149.bar
   
 
 
