@@ -5,4 +5,5 @@ payload:
   - DOMAIN-KEYWORD,pipecdn
   - DOMAIN-KEYWORD,epithelialcellrobots
 #ETH
+  - DOMAIN-SUFFIX,176868.cloud
   - DOMAIN-KEYWORD,listbooks
