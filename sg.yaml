@@ -6,6 +6,30 @@ payload:
   - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-SUFFIX,12bet.com
   - DOMAIN-SUFFIX,1xlite-11149.bar
+# --- 视频流媒体与广播 (Singapore Video & Media) ---
+  - DOMAIN-SUFFIX,mewatch.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,cast.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,starhub.com,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,singtel.com,🇸🇬 新加坡本地服务
+
+  # --- 政务、身份与金融服务 (Singapore Gov & Finance) ---
+  - DOMAIN-SUFFIX,singpass.gov.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,cpf.gov.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,dbs.com.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,posb.com.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,uob.com.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,ocbc.com,🇸🇬 新加坡本地服务
+
+  # --- 生活、二手交易、求职与房产 (Singapore Lifestyle & Property) ---
+  - DOMAIN-SUFFIX,carousell.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,carousell.com,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,propertyguru.com.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,99.co,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,mycareersfuture.gov.sg,🇸🇬 新加坡本地服务
+
+  # --- 本地票务与演出 (Singapore Tickets) ---
+  - DOMAIN-SUFFIX,ticketmaster.sg,🇸🇬 新加坡本地服务
+  - DOMAIN-SUFFIX,sistic.com.sg,🇸🇬 新加坡本地服务
   
 
 
