@@ -1,3 +1,39 @@
 payload:
+  # === 1. 视频与流媒体服务 ===
+  - DOMAIN-SUFFIX,tver.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,abema.tv,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,abema.io,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,unext.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,hulu.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,fujitv.co.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,nhk.jp,🇯🇵 日本本土服务
+  - DOMAIN-KEYWORD,nicovideo,🇯🇵 日本本土服务
 
+  # === 2. 游戏平台与官网 ===
+  - DOMAIN-SUFFIX,dmm.com,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,dmm.co.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,fanza.com,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,cygames.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,priconne-redive.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,umamusume.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,square-enix.com,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,konami.net,🇯🇵 日本本土服务
+
+  # === 3. 电商、票务与二手交易 ===
+  - DOMAIN-SUFFIX,mercari.com,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,mercari.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,mercdn.net,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,yahoo.co.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,pia.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,eplus.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,p-bandai.jp,🇯🇵 日本本土服务
+
+  # === 4. 电子书与漫画 ===
+  - DOMAIN-SUFFIX,cmoa.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,papy.co.jp,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,bookwalker.jp,🇯🇵 日本本土服务
+
+  # === 5. 日本常用第三方支付/认证（辅助登录） ===
+  - DOMAIN-SUFFIX,line.me,🇯🇵 日本本土服务
+  - DOMAIN-SUFFIX,paypay.ne.jp,🇯🇵 日本本土服务
 
