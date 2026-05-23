@@ -1,2 +1,4 @@
 payload:
-  - DOMAIN-SUFFIX,newbellbox.store
+  - DOMAIN-KEYWORD,newbellbox
+  - DOMAIN-KEYWORD,abccdn.me
+  - DOMAIN-KEYWORD,pipecdn.vip
