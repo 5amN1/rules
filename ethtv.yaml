@@ -4,3 +4,5 @@ payload:
   - DOMAIN-KEYWORD,abccdn
   - DOMAIN-KEYWORD,pipecdn
   - DOMAIN-KEYWORD,epithelialcellrobots
+#ETH
+  - DOMAIN-KEYWORD,listbooks
