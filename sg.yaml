@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,1xbet.com
   - DOMAIN-SUFFIX,12bet.com
   - DOMAIN-SUFFIX,1xlite-11149.bar
+  - DOMAIN-KEYWORD,1xlite
 # --- 视频流媒体与广播 (Singapore Video & Media) ---
   - DOMAIN-SUFFIX,mewatch.sg,🇸🇬 新加坡本地服务
   - DOMAIN-SUFFIX,cast.sg,🇸🇬 新加坡本地服务
