@@ -38,6 +38,36 @@ payload:
   - DOMAIN-SUFFIX,bblivestream.com
   - DOMAIN-SUFFIX,bybdc6.com
   - DOMAIN-KEYWORD,asterdex
+# >>>>>>>>>> 币安 (Binance) 专属分流规则 <<<<<<<<<<
+# 币安主站及主要交易接口域名
+- DOMAIN-SUFFIX,binance.com,币安分流
+- DOMAIN-SUFFIX,binance.me,币安分流
+- DOMAIN-SUFFIX,binance.vision,币安分流
+- DOMAIN-SUFFIX,binance.charity,币安分流
+- DOMAIN-SUFFIX,binance.co,币安分流
+- DOMAIN-SUFFIX,binance.cloud,币安分流
+- DOMAIN-SUFFIX,binance.info,币安分流
+- DOMAIN-SUFFIX,binance.org,币安分流
+- DOMAIN-SUFFIX,binance.net,币安分流
+- DOMAIN-SUFFIX,binance.us,币安分流
+# 币安 Web3 钱包、链上及去中心化关联域名
+- DOMAIN-SUFFIX,bnbchain.org,币安分流
+- DOMAIN-SUFFIX,bnbswap.xyz,币安分流
+- DOMAIN-SUFFIX,binance.gg,币安分流
+- DOMAIN-SUFFIX,baking-powder.online,币安分流
+# 币安静态资源、CDN、API及App内部通信域名
+- DOMAIN-SUFFIX,binapstream.com,币安分流
+- DOMAIN-SUFFIX,bnappcdn.com,币安分流
+- DOMAIN-SUFFIX,bntrace.com,币安分流
+- DOMAIN-SUFFIX,binanceapi.com,币安分流
+- DOMAIN-SUFFIX,bnhandshaking.com,币安分流
+- DOMAIN-SUFFIX,binancegapi.com,币安分流
+- DOMAIN-SUFFIX,saasexch.com,币安分流
+# 币安收购/旗下的核心加密生态域名
+- DOMAIN-SUFFIX,coinmarketcap.com,币安分流
+- DOMAIN-SUFFIX,trustwallet.com,币安分流
+# 币安部分核心API关键字匹配（防漏网鱼）
+- DOMAIN-KEYWORD,binance,币安分流
 #OKX
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,oklink.com
