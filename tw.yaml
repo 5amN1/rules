@@ -36,6 +36,7 @@ payload:
   - DOMAIN-SUFFIX,appsflyer.com
   - DOMAIN-SUFFIX,appsflyersdk.com
   - DOMAIN-SUFFIX,bblivestream.com
+  - DOMAIN-SUFFIX,bybdc6.com
 #OKX
   - DOMAIN-SUFFIX,okex.com
   - DOMAIN-SUFFIX,oklink.com
