@@ -5,8 +5,12 @@ payload:
 #ETH
   - DOMAIN-SUFFIX,176868.cloud
   - DOMAIN-SUFFIX,276868.cloud
+  - DOMAIN-SUFFIX,tv6868.com  
   - DOMAIN-SUFFIX,web6868.com
   - DOMAIN-KEYWORD,listbooks
   - DOMAIN-KEYWORD,greennowminute
   - DOMAIN-KEYWORD,greennowhour
+  - DOMAIN-KEYWORD,greennowday
+  - DOMAIN-SUFFIX,notescrassula.com
+  - DOMAIN-SUFFIX,notessedum.com  
   - DOMAIN-KEYWORD,clodehugtiger
