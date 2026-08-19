@@ -110,6 +110,7 @@ payload:
   - DOMAIN-SUFFIX,bibliocommons.com
   - DOMAIN-SUFFIX,libanswers.com
   - DOMAIN-SUFFIX,bpl.org
+  - DOMAIN-SUFFIX,multcolib.org
 # AI
   - DOMAIN-SUFFIX,perplexity.ai
   - DOMAIN-SUFFIX,sora.com
