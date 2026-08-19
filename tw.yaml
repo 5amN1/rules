@@ -74,6 +74,8 @@ payload:
   - DOMAIN-SUFFIX,okx.com
 #Bybit
   - DOMAIN-KEYWORD,bybit
+#Library
+  - DOMAIN-SUFFIX,tpml.edu.tw
 
 
 
