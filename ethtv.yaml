@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,greennowminute
   - DOMAIN-KEYWORD,greennowhour
   - DOMAIN-KEYWORD,greennowday
+  - DOMAIN-KEYWORD,nowday
   - DOMAIN-SUFFIX,notescrassula.com
   - DOMAIN-SUFFIX,notessedum.com  
   - DOMAIN-KEYWORD,clodehugtiger
