@@ -12,6 +12,7 @@ payload:
   - DOMAIN-KEYWORD,nowday
   - DOMAIN-SUFFIX,notescrassula.com
   - DOMAIN-SUFFIX,notessedum.com
+  - DOMAIN-KEYWORD,renewapp
 #ETH
   - DOMAIN-SUFFIX,176868.cloud
   - DOMAIN-SUFFIX,276868.cloud
@@ -19,4 +20,3 @@ payload:
   - DOMAIN-SUFFIX,web6868.com
   - DOMAIN-KEYWORD,listbooks  
   - DOMAIN-KEYWORD,clodehugtiger
-  - DOMAIN-KEYWORD,renewapp
