@@ -2,17 +2,13 @@ payload:
 #aiptv
   - DOMAIN-KEYWORD,newbellbox
   - DOMAIN-KEYWORD,epithelialcellrobots
-  - DOMAIN-KEYWORD,greennow
-  - DOMAIN-KEYWORD,greennowminute
-  - DOMAIN-KEYWORD,greennowhour
-  - DOMAIN-KEYWORD,greennowday
   - DOMAIN-KEYWORD,luckycupcake
   - DOMAIN-KEYWORD,nowminute
   - DOMAIN-KEYWORD,nowhour
   - DOMAIN-KEYWORD,nowday
   - DOMAIN-SUFFIX,notescrassula.com
   - DOMAIN-SUFFIX,notessedum.com
-  - DOMAIN-KEYWORD,renewapp
+  - DOMAIN-KEYWORD,newapp
 #ETH
   - DOMAIN-SUFFIX,176868.cloud
   - DOMAIN-SUFFIX,276868.cloud
