@@ -1,0 +1,6 @@
+payload:
+  - DOMAIN-SUFFIX,libbyapp.com
+  - DOMAIN-SUFFIX,overdrive.com
+  - DOMAIN-KEYWORD,libby
+  - DOMAIN-KEYWORD,libbyapp
+  - DOMAIN-KEYWORD,overdrive
