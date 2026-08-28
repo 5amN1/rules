@@ -95,12 +95,6 @@ payload:
   - DOMAIN-SUFFIX,cbsivideo.com
   - DOMAIN-SUFFIX,paramountplus.com
   - DOMAIN-SUFFIX,pplusstatic.com
-# Book
-  - DOMAIN-SUFFIX,pressreader.com
-  - DOMAIN-KEYWORD,pressreader
-  - DOMAIN-SUFFIX,libbyapp.com
-  - DOMAIN-SUFFIX,libbyshelf.com
-  - DOMAIN-KEYWORD,libby
 # Library
   - DOMAIN-SUFFIX,lapl.org
   - DOMAIN-SUFFIX,hcpl.net
