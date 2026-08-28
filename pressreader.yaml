@@ -1,0 +1,5 @@
+payload:
+# PressReader
+  - DOMAIN-KEYWORD,pressreader
+  - DOMAIN-SUFFIX,pressreader.com
+  - DOMAIN-SUFFIX,pressmart.com
