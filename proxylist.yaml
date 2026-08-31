@@ -12,7 +12,8 @@ payload:
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,lovehd.de
   - DOMAIN-SUFFIX,wmuu.de
-  #CDN
+  #PressReader 的核心媒体/图片 CDN 节点
   - DOMAIN-SUFFIX,ndcds.net
+  - DOMAIN-SUFFIX,pr-cdn.net
 
 
