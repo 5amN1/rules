@@ -12,5 +12,7 @@ payload:
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,lovehd.de
   - DOMAIN-SUFFIX,wmuu.de
+  #CDN
+  - DOMAIN-SUFFIX,ndcds.net
 
 
