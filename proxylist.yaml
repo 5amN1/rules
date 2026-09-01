@@ -1,21 +1,21 @@
 payload:
   - DOMAIN-SUFFIX,bitwarden.com
   - DOMAIN-SUFFIX,quic.nginx.org
-  - DOMAIN-SUFFIX,empornium.sx
   - DOMAIN-SUFFIX,frostsky.com
   - DOMAIN-SUFFIX,futunn.com
-  - DOMAIN-SUFFIX,hdbits.org
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,kidsa-z.com
   - DOMAIN-SUFFIX,nodeseek.com
   - DOMAIN-KEYWORD,rockstargames
   - DOMAIN-SUFFIX,theinitium.com
-  - DOMAIN-SUFFIX,lovehd.de
   - DOMAIN-SUFFIX,wmuu.de
   #PressReader 的核心媒体/图片 CDN 节点
   - DOMAIN-SUFFIX,ndcds.net
   - DOMAIN-SUFFIX,pr-cdn.net
   - DOMAIN-SUFFIX,prcdn.co
-  
+  #PT
+  - DOMAIN-SUFFIX,empornium.sx
+  - DOMAIN-SUFFIX,hdbits.org
+  - DOMAIN-SUFFIX,m-team.cc
 
 
