@@ -78,4 +78,9 @@ payload:
   - IP-CIDR,64.23.132.171/32
   - IP-ASN,20473
 # NAME: Muse
-  - DOMAIN-SUFFIX,muse.ai 
+  # Muse.ai 核心域名及 API
+  - DOMAIN-SUFFIX,muse.ai
+  - DOMAIN-KEYWORD,muse-ai
+  # 相关的 CDN 与静态资源域名
+  - DOMAIN-SUFFIX,muse.cdn.cloudflare.net
+  - DOMAIN-KEYWORD,museai
