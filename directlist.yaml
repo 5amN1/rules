@@ -19,5 +19,6 @@ payload:
   - DOMAIN-SUFFIX,tencent-cloud.net
   - DOMAIN-SUFFIX,wxgateway.com
   - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-SUFFIX,qlogo.cn
   - DOMAIN-KEYWORD,banjixiaoguanjia  
   - DOMAIN-SUFFIX,welife001.com
