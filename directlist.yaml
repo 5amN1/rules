@@ -9,3 +9,13 @@ payload:
   - DOMAIN-SUFFIX,myds.me
   - DOMAIN-KEYWORD,synology
   - DOMAIN-KEYWORD,quickconnect
+    # === 微信/腾讯小程序及 CDN 补漏 ===
+  - DOMAIN-SUFFIX,weixin.qq.com
+  - DOMAIN-SUFFIX,weixin.com
+  - DOMAIN-SUFFIX,qq.com
+  - DOMAIN-SUFFIX,qcloud.com
+  - DOMAIN-SUFFIX,tencent-cloud.net
+  - DOMAIN-SUFFIX,wxgateway.com
+  - DOMAIN-SUFFIX,qpic.cn
+  - DOMAIN-KEYWORD,banjixiaoguanjia
+  - DOMAIN-SUFFIX,guzzoni.apple.com
