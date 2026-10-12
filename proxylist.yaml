@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,ipify.org
   - DOMAIN-SUFFIX,kidsa-z.com
   - DOMAIN-SUFFIX,nodeseek.com
+  - DOMAIN-SUFFIX,rfchost.com
   - DOMAIN-KEYWORD,rockstargames
   - DOMAIN-SUFFIX,theinitium.com
   - DOMAIN-SUFFIX,wmuu.de
